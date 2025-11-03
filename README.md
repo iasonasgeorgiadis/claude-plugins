@@ -1,8 +1,4 @@
-# Claude Code Plugin: Project Context
-
-> **Rapid Project Orientation** - Scan CLAUDE.md files and surface the context developers need.
-
-A focused Claude Code plugin that analyzes CLAUDE.md documentation and summarizes the most important details about a project's scope, structure, dependencies, and conventions. Install it when you want quick situational awareness without loading a larger plugin marketplace.
+# Claude Code Plugins
 
 ## Plugins
 
