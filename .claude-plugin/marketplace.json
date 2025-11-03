@@ -1,0 +1,20 @@
+{
+"name": "Plugins for Claude Code",
+"owner": {
+  "name": "Iasonas Georgiadis",
+  "email": "iason.jg@gmail.com",
+  "url": "https://github.com/iasonasgeorgiadis"
+},
+
+ "metadata": {
+    "description": "Plugins for production-ready workflow orchestration"
+ },
+
+"plugins": [
+{
+  "name": "first-plugin",
+  "source": "./first-plugin",
+  "description": "My first test plugin"
+}
+]
+}
