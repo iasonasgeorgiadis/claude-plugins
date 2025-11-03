@@ -1,0 +1,8 @@
+{
+  "name": "project-context",
+  "description": "Scan and analyze CLAUDE.md files to understand project context",
+  "version": "1.0.0",
+  "author": {
+    "name": "Iasonas Georgiadis"
+  }
+}

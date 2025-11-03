@@ -12,9 +12,9 @@
 
 "plugins": [
 {
-  "name": "first-plugin",
-  "source": "./first-plugin",
-  "description": "My first test plugin"
+  "name": "project-context",
+  "source": "./project-context",
+  "description": "Scan and analyze CLAUDE.md files to understand project context"
 }
 ]
 }
